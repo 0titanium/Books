@@ -138,7 +138,7 @@ PCB 기반으로 프로세스 상태 저장, 로드 과정
 
 ## IPC
 
-Inter Process Communication
+Interprocess Communication
 
 프로세스 간 데이터 전달, 공유 데이터 관리 메커니즘
 
